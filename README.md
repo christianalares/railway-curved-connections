@@ -8,14 +8,14 @@ The cover is an anonymized Railway screenshot. All service names and URLs shown 
 
 This is an independent, open-source project. It is not affiliated with Railway.
 
-## Install in Vivaldi
+## Install in a Chromium-based browser
 
 1. Download the [latest release ZIP](https://github.com/christianalares/railway-curved-connections/releases/latest) and unzip it somewhere you can keep it. You can also clone this repository.
-2. Open `vivaldi://extensions` and turn on **Developer mode**.
+2. Open your browser's **Extensions** page and turn on **Developer mode**. In Chrome, the page is `chrome://extensions`.
 3. Click **Load unpacked** and choose the unzipped folder (the one containing `manifest.json`).
 4. Open or refresh a Railway project architecture page. Use the extension button to turn the curves on or off.
 
-In Chrome, use `chrome://extensions` for steps 2–3. Other Chromium browsers with unpacked extension support should work similarly.
+The extension uses Manifest V3 and should work in desktop Chromium browsers that support unpacked extensions.
 
 To update, replace the files with a newer release, click **Reload** on the Extensions page, and refresh the Railway tab. If you cloned the repository, run `git pull` before reloading.
 
