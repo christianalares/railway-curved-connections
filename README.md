@@ -1,10 +1,10 @@
 # Railway Curved Connections
 
-![A curved connection between two service cards](icons/icon-128.png)
+![Anonymized Railway architecture canvas with curved reference connections](docs/cover-anonymized.png)
 
 A small browser extension that makes the dashed reference lines on Railway project canvases easier to follow. It draws smooth curves around service cards, separates connections that share a card edge, and puts a dot where each connection starts.
 
-![Curved connections in a fictional Railway demo project](docs/screenshot-curved.png)
+The cover is an anonymized Railway screenshot. All service names and URLs shown in it are fictional.
 
 This is an independent, open-source project. It is not affiliated with Railway.
 
